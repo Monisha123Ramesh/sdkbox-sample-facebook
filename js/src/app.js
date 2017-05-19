@@ -99,6 +99,7 @@ var HelloWorldLayer = cc.Layer.extend({
             },
             onSharedCancel: function() {
               self.showText("share canceled");
+                                          cc.log("share cancelled")
             },
             onPermission: function(isLogin, msg) {
               if(isLogin) {

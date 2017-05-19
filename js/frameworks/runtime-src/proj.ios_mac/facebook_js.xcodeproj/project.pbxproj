@@ -374,7 +374,7 @@
 				LastUpgradeCheck = 0500;
 				TargetAttributes = {
 					A922753C1517C094001B78AA = {
-						DevelopmentTeam = LNN652W6T6;
+						DevelopmentTeam = 33RB88GY9E;
 						SystemCapabilities = {
 							com.apple.Keychain = {
 								enabled = 1;
@@ -531,7 +531,7 @@
 				CODE_SIGN_ENTITLEMENTS = "facebook_js-mobile.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COMPRESS_PNG_FILES = NO;
-				DEVELOPMENT_TEAM = LNN652W6T6;
+				DEVELOPMENT_TEAM = 33RB88GY9E;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = "\"$(SRCROOT)\"";
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -573,7 +573,7 @@
 				CODE_SIGN_ENTITLEMENTS = "facebook_js-mobile.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COMPRESS_PNG_FILES = NO;
-				DEVELOPMENT_TEAM = LNN652W6T6;
+				DEVELOPMENT_TEAM = 33RB88GY9E;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = "\"$(SRCROOT)\"";
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
